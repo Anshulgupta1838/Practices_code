@@ -1,0 +1,7 @@
+name = input("Enter name :")
+age = int(input("Enter age :"))
+salary = float(input("Enter Salary :"))
+mobile = input("Enetr mobile :")
+print("user detail :")
+print("name is :", name, "age is :",age)
+print("salary is :", salary, "mobile no. is:",mobile)
